@@ -7,7 +7,7 @@
 #
 # author : Anonymous , version 1.0
 # ----------------------------------------------------------------------------------------------
-import urllib2
+import urllib.request as urllib2
 import sys
 import threading
 import random
